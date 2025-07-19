@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  19 JUL 2025 11:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.20)  19 JUL 2025 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1285,7 +1285,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.24649pt}.
 
-[2] (./questions/2.tex)
+[2] (./questions/2.tex
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 14.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 23.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 29.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 40.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 51.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.24649pt, for example:
@@ -1294,7 +1309,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.24649pt}.
 
-[3] (./questions/3.tex)
+[3]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 57.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 63.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 70.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 76.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 82.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 91.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 97.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.24649pt, for example:
@@ -1303,7 +1339,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.24649pt}.
 
-[4] 
+[4]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 103.
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 15.59999pt on input line 108.
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 113.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 119.
+
+
+Overfull \hbox (3.37398pt too wide) in paragraph at lines 122--123
+[][]\TU/XBNiloofar.ttf(0)/b/n/10 مدل TCP/IP : \TU/XBNiloofar.ttf(0)/m/n/10 به د
+لیل ارتباط نزدیک با پروتکل‌های واقعی اینترنت، به طور گسترده‌ای در پیاده‌سازی‌ها
+ی[]
+ []
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 125.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.24649pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.24649pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.24649pt}.
+
+[5] (./questions/3.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.24649pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.24649pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.24649pt}.
+
+[6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Exp1.aux)
 
@@ -1313,12 +1389,12 @@ Package rerunfilecheck Info: File `Exp1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25564 strings out of 476683
- 488681 string characters out of 5807575
- 1864012 words of memory out of 5000000
- 45300 multiletter control sequences out of 15000+600000
- 514658 words of font info for 80 fonts, out of 8000000 for 9000
+ 25570 strings out of 476683
+ 488942 string characters out of 5807575
+ 1865012 words of memory out of 5000000
+ 45304 multiletter control sequences out of 15000+600000
+ 514674 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,11n,101p,1324b,457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,101p,1324b,662s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Exp1.pdf (4 pages).
+Output written on Exp1.pdf (6 pages).
